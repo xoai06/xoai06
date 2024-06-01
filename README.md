@@ -2,7 +2,7 @@
 <div align="center">  </div>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=650&random=false&width=435&lines=Hi+There;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=650&random=false&width=435&lines=Hi+There+✌️;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
@@ -66,14 +66,14 @@
 <br>
 <div align=center>
   <a href="#" title="Xoai">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xoai&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="Xoai">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Xoai&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    
   </a>
 </div>
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2200&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
