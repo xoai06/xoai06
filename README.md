@@ -1,8 +1,8 @@
 
-<div align="center"> < src=""> </div>
+<div align="center">  </div>
 
 <h1 align="center">
-    < src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=1000&random=false&width=435&lines=Hi+There;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=650&random=false&width=435&lines=Hi+There;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
