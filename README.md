@@ -2,7 +2,7 @@
 <div align="center"> <img src=""> </div>
 
 <h1 align="center">
-    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=3700&pause=100&center=SAI&vCenter=SAI&repeat=%C4%90%C3%9ANG+V%E1%BA%ACY&random=SAI&width=435&lines=Hi+There;I'm+Xoai+206;+Welcome+to+my+Github+Profile+%E2%9D%A4" alt="Typing SVG" /></a>" />
+    <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=3700&pause=1000&random=false&width=435&lines=Hi+There;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
