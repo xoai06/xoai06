@@ -2,7 +2,7 @@
 <div align="center">  </div>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=650&random=false&width=435&lines=Hi+There+✌️;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2500&pause=150&random=false&width=435&lines=Hi+✌️;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
@@ -73,5 +73,5 @@
 
 
 <h3 align="center">
-    <a href="<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=50&random=false&width=435&lines=T%E1%BA%A1i+sao+n%C3%B3i+th%C3%ADch%2Ct%E1%BA%A1i+sao+n%C3%B3i+nh%E1%BB%9B;M%C3%A0+l%E1%BA%A1i+ch%E1%BA%B3ng+n%C3%B3i+y%C3%AAu+%C4%91%C3%A0ng+ho%C3%A0ng%3F;V%C3%A0i+d%C3%B2ng+tin+nh%E1%BA%AFn%2Cnh%E1%BB%AFng+l%E1%BB%9Di+th%E1%BA%AFc+m%E1%BA%AFc;Gi%E1%BB%9D+%C4%91%C3%A2y+l%E1%BA%A1i+bu%C3%B4ng+tay+d%E1%BB%85+d%C3%A0ng%3F" alt="Typing SVG" /></a>
+    <a href="<a href="<a href="<a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2500&pause=50&random=false&width=435&lines=Hi+c%E1%BA%ADu+%3A3;C%C3%B3+m%E1%BB%99t+%C4%91i%E1%BB%81u+t%E1%BB%9B+lu%C3%B4n+th%E1%BA%AFc+m%E1%BA%AFc;N%E1%BA%BFu+nh%C6%B0+t%E1%BB%9B+n%C3%B3i+.+.+.;T%E1%BB%9B+nh%E1%BB%9B+c%E1%BA%ADu%2C+;C%C3%B3+khi+n%C3%A0o+c%E1%BA%ADu+nh%E1%BB%9B+%C4%91%E1%BA%BFn+t%E1%BB%9B+kh%C3%B4ng;T%E1%BB%9B+th%C3%ADch+c%E1%BA%ADu%2C;Li%E1%BB%87u+.+.+.;C%E1%BA%ADu+c%C3%B3+th%C3%ADch+t%E1%BB%9B+kh%C3%B4ng%3F!." alt="Typing SVG" /></a>
 </h3>
