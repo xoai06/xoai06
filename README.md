@@ -13,9 +13,7 @@
 
  🌍 I'm Xoai from the Earth 
  
- 🔭 I’m currently working on **a chat app**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ 
  
  </div>
 
@@ -31,7 +29,7 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
+<h2 align="center"></h2>
 <div align="center">
 <a href="" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/y4bswMT02OROjzOPa5zDGsnXX5-cBABjF93j26seJH2cEHD4PuBW1d5VvwfYleeKf4_X" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.fiverr.com/" target="_blank" rel="noreferrer"><img src="https://logowik.com/content/uploads/images/fiverr-new3326.jpg" width="36" height="36" alt="CSS3" /></a>
@@ -42,7 +40,7 @@
 <p align="center">
   <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,gitlab,express,firebase,mongodb" /><br>
@@ -53,7 +51,7 @@
 <hr/>
 <br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
@@ -61,7 +59,7 @@
 
 <hr/>
 <br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<h2 align="center"></h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
@@ -75,5 +73,5 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2200&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <a href="<a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=50&random=false&width=435&lines=T%E1%BA%A1i+sao+n%C3%B3i+th%C3%ADch%2Ct%E1%BA%A1i+sao+n%C3%B3i+nh%E1%BB%9B;M%C3%A0+l%E1%BA%A1i+ch%E1%BA%B3ng+n%C3%B3i+y%C3%AAu+%C4%91%C3%A0ng+ho%C3%A0ng%3F;V%C3%A0i+d%C3%B2ng+tin+nh%E1%BA%AFn%2Cnh%E1%BB%AFng+l%E1%BB%9Di+th%E1%BA%AFc+m%E1%BA%AFc;Gi%E1%BB%9D+%C4%91%C3%A2y+l%E1%BA%A1i+bu%C3%B4ng+tay+d%E1%BB%85+d%C3%A0ng%3F" alt="Typing SVG" /></a>
 </h3>
