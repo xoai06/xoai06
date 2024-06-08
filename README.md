@@ -21,7 +21,7 @@
   <a href="mailto:xoailuuanh06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://" target="_blank">
+  <a href="https:/https://neemiss206.github.io/foryou" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="/" target="_blank">
@@ -73,5 +73,5 @@
 
 
 <h3 align="center">
-    <a href="<a href="<a href="<a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2500&pause=50&random=false&width=435&lines=Hi+c%E1%BA%ADu+%3A3;C%C3%B3+m%E1%BB%99t+%C4%91i%E1%BB%81u+t%E1%BB%9B+lu%C3%B4n+th%E1%BA%AFc+m%E1%BA%AFc;N%E1%BA%BFu+nh%C6%B0+t%E1%BB%9B+n%C3%B3i+.+.+.;T%E1%BB%9B+nh%E1%BB%9B+c%E1%BA%ADu%2C+;C%C3%B3+khi+n%C3%A0o+c%E1%BA%ADu+nh%E1%BB%9B+%C4%91%E1%BA%BFn+t%E1%BB%9B+kh%C3%B4ng;T%E1%BB%9B+th%C3%ADch+c%E1%BA%ADu%2C;Li%E1%BB%87u+.+.+.;C%E1%BA%ADu+c%C3%B3+th%C3%ADch+t%E1%BB%9B+kh%C3%B4ng%3F!." alt="Typing SVG" /></a>
+    <a href="<a href="<a href="<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2500&pause=50&random=false&width=435&lines=Hi+c%E1%BA%ADu+%3A3;T%E1%BB%9B+v%E1%BA%ABn+s%E1%BA%BD+lu%C3%B4n+%E1%BB%9F+%C4%91%C3%A2y;Cho+d%C3%B9+.+.+.+ch%C3%BAng+ta+c%C3%B3+chia+xa;t%E1%BB%9B+v%E1%BA%ABn+s%E1%BA%BD+%E1%BB%9F+%C4%91%C3%A2y+khi+c%E1%BA%ADu+nh%C3%ACn+l%E1%BA%A1i.!" alt="Typing SVG" /></a>
 </h3>
