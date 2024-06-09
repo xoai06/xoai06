@@ -21,7 +21,7 @@
   <a href="mailto:xoailuuanh06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://xoai06.github.io/music/" target="_blank">
+  <a href="điền link vao day" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.tiktok.com/@23th3qwertyuiop" target="_blank">
@@ -73,5 +73,5 @@
 
 
 <h3 align="center">
-    <a href="<a href="<a href="<<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2500&pause=50&random=false&width=435&lines=Hi+c%E1%BA%ADu+%3A3;T%E1%BB%9B+v%E1%BA%ABn+s%E1%BA%BD+lu%C3%B4n+%E1%BB%9F+%C4%91%C3%A2y;Cho+d%C3%B9+.+.+.+ch%C3%BAng+ta+c%C3%B3+chia+xa;t%E1%BB%9B+v%E1%BA%ABn+s%E1%BA%BD+%E1%BB%9F+%C4%91%C3%A2y+khi+c%E1%BA%ADu+nh%C3%ACn+l%E1%BA%A1i.!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2500&pause=50&random=false&width=435&lines=C%C3%A1+kh%C3%B4ng+v%C3%A2y." alt="Typing SVG" /></a>
 </h3>
