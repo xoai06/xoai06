@@ -2,7 +2,7 @@
 <div align="center">  </div>
 
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=50&random=false&width=435&lines=Hi+✌️;I'm+Xoai+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=50&random=false&width=435&lines=Hi+✌️;I'm+Huy+206;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
@@ -11,7 +11,7 @@
 
 <div align="center">
 
- 🌍 I'm Xoai from the Earth 
+ 🌍 I'm Huy from the Earth 
  
  
  
@@ -73,5 +73,5 @@
 
 
 <h3 align="center">
-    <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&duration=2200&pause=50&random=false&width=435&lines=Ng%C6%B0%E1%BB%9Di+t%C3%B4i+y%C3%AAu+l%C3%A0+m%E1%BB%99t+thi%C3%AAn+th%E1%BA%A7n" alt="Typing SVG" /></a>
+    <a href="<a href="https://git.io/typing-svg"><img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&width=435&lines=I+wish+you+were+here" alt="Typing SVG"" alt="Typing SVG" /></a>
 </h3>
