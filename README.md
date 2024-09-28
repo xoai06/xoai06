@@ -73,5 +73,4 @@
 
 
 <h3 align="center">
-    <a href="<a href=">< src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&width=435&lines=I+wish+you+were+here" alt="Typing SVG"" alt="Typing SVG" /></a>
-</h3>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&pause=1000&width=435&lines=I+wish+you+were+here" alt="Typing SVG" /></a>
